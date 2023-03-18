@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h2>Start Check In</h2>
-	<form action="startCheckIn" method="post">
+	<form action="proceedCheckIn" method="post">
 	Enter your reservation Id<input type="text" name="id">
 	<input type="submit" value="start">
 	
